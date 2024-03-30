@@ -1,0 +1,28 @@
+[
+  {
+    "company_id": 1,
+    "name": "Coca-Cola",
+    "description": "carbonated soft drink produced by the Coca-Cola Company\n",
+    "price": 50,
+    "quantity": 10000
+
+  },
+
+  {
+    "company_id": 2,
+    "name": "Pepsi",
+    "description": "carbonated soft drink produced by the PepsiCo Company\n",
+    "price": 45,
+    "quantity": 8000
+
+  },
+
+  {
+    "company_id": 3,
+    "name": "Orangina",
+    "description": "Fruity carbonated drink with orange juice and fruit pieces.",
+    "price": 60,
+    "quantity": 4000
+
+  }
+]

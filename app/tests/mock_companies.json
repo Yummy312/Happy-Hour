@@ -1,0 +1,20 @@
+[
+  {
+    "name": "PepsiCo",
+    "description": "Pepsi is a carbonated soft drink modified by PepsiCo, created in 1893",
+    "location": "Purchase, New York\n",
+    "hours_of_operation": "from 9:00 to 17:00\n"
+  },
+  {
+    "name": "Coca-Cola",
+    "description": "\nThe Coca-Cola Company is an American food company, the world's largest manufacturer and supplier of concentrates, syrups and soft drinks.",
+    "location": "Georgia, Atlanta.\n",
+    "hours_of_operation": "from 9:00 to 17:00\n"
+  },
+   {
+    "name": "Suntory Beverage & Food - о",
+    "description": "Suntory Beverage & Food Ltd. engages in the production and sale of food and non-alcoholic beverages.\n",
+    "location": "Tokyo",
+    "hours_of_operation": "from 9:00 to 19:00\n"
+  }
+]
